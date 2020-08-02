@@ -2,29 +2,167 @@
   <foreignObject width="100%" height="100%">
     <div xmlns="http://www.w3.org/1999/xhtml">
       <style>
-@keyframes bounce {
-  0%   { transform: scale(1,    1)   translateY(0)     skew(0deg,  0deg); }
-  3%   { transform: scale(1,    1)   translateY(0)     skew(0deg,  0deg); }
-  5%   { transform: scale(1.1,  .9)  translateY(5px)   skew(0deg,  0deg); }
-  12%  { transform: scale(.9,   1.1) translateY(-70px) skew(25deg, 5deg); }
-  13%  { transform: scale(.9,   1.1) translateY(-70px) skew(25deg, 5deg); }
-  20%  { transform: scale(1.05, .95) translateY(0)     skew(0deg,  0deg); }
-  22%  { transform: scale(1,    1)   translateY(-7px)  skew(0deg,  0deg); }
-  27%  { transform: scale(1,    1)   translateY(0)     skew(0deg,  0deg); }
-  100% { transform: scale(1,    1)   translateY(0)     skew(0deg,  0deg); }
+@import url('https://fonts.googleapis.com/css?family=Lobster&display=swap');
+
+* {
+  box-sizing: border-box;
+  overflow: hidden;
 }
-.jalaj {
-  width: 120px;
-  line-height: 20px;
-  padding-top: 70px;
-  text-align: center;
-  font: 400 16px/1.5 Helvetica ,Arial ,sans-serif;
-  color: rgb(52, 73, 94);
-  transform-origin: bottom;
-  animation: 4s cubic-bezier(.5, 0, .5, 1.2) 1s infinite bounce;
+
+HTML, BODY {
+  height: 100%;
+  }
+
+$colors: #360745, #D61C59, #E7D84B, #EFEAC5, #1B8798;
+
+BODY {
+  background: #000;
+  background-size: .12em 100%;
+  font: 16em/1 Lobster;
+
 }
+.background {
+  background-color: hsla(209, 23%, 22%, 1);
+  z-index: 999;
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 50vw;
+  height: 100vh;
+  animation: discoverLeft 4s linear;
+  animation-fill-mode: forwards;
+  animation-delay: 0.2s;
+  animation-iteration-count: 1;
+}
+
+.background2 {
+  background-color: hsla(209, 23%, 22%, 1);
+  z-index: 99999;
+  position: absolute;
+  right: 0;
+  top: 0;
+  width: 50vw;
+  height: 100vh;
+  animation: discoverRight 4s linear;
+  animation-fill-mode: forwards;
+  animation-iteration-count: 1;
+  animation-delay: 0.2s;
+}
+
+.text--line {
+  margin: 600px;
+  }
+
+svg {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  }
+
+$max: 5;
+$stroke-step: 7%; 
+.text-copy {
+  fill: none;
+  stroke: white;
+  stroke-dasharray: $stroke-step $stroke-step * ($max - 1);
+  stroke-width: 3px;
+  
+  animation: stroke-offset 9s infinite linear;
+  
+  @for $item from 1 through $max {
+    $stroke-color: nth($colors, $item);
+    
+    &:nth-child(#{$item}) {
+      stroke: $stroke-color;
+      stroke-dashoffset: $stroke-step * $item;
+      }
+    }
+  }
+
+@keyframes stroke-offset {
+  50% {
+    stroke-dashoffset: $stroke-step * $max;  
+    stroke-dasharray: 0 $stroke-step * $max*2.5;
+  }
+}
+
+@keyframes discoverLeft {
+  0% {
+    opacity: 1;
+  }
+
+  50% {
+    opacity: 0.5;
+  }
+
+  65% {
+    opacity: 0.3
+  }
+
+  100% {
+    transform: translateX(-1500px) skew(50deg);
+  }
+}
+
+@keyframes discoverRight {
+  0% {
+    opacity: 1;
+  }
+
+  50% {
+    opacity: 0.5;
+  }
+
+  65% {
+    opacity: 0.3
+  }
+
+  100% {
+    transform: translateX(1500px) skew(-50deg);
+  }
+}
+
+
       </style>
-      <div class="jalaj">Hello, world</div>
+      <div class="background"></div>
+<div class="background2"></div>
+
+
+  <symbol id="s-text">
+    <text text-anchor="middle"
+          x="50%"
+          y="35%"
+          class="text--line"
+          >
+      ZTM
+      
+      
+    </text>
+    <text text-anchor="middle"
+          x="50%"
+          y="68%"
+          class="text--line2"
+          >
+      FAMILY
+    </text>
+    
+  </symbol>
+  
+  <g class="g-ants">
+    <use xlink:href="#s-text"
+      class="text-copy"></use>     
+    <use xlink:href="#s-text"
+      class="text-copy"></use>     
+    <use xlink:href="#s-text"
+      class="text-copy"></use>     
+    <use xlink:href="#s-text"
+      class="text-copy"></use>     
+    <use xlink:href="#s-text"
+      class="text-copy"></use>     
+  </g>
+  
+  
+
     </div>
   </foreignObject>
 </svg>
