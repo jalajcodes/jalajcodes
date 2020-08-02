@@ -1,106 +1,146 @@
 <svg fill="none" viewBox="0 0 120 120" width="100%" height="100%" xmlns="http://www.w3.org/2000/svg">
   <foreignObject width="100%" height="100%">
     <div xmlns="http://www.w3.org/1999/xhtml">
-      <style>
-
-.wrapper {
-  margin: 0;
+     @import url("https://fonts.googleapis.com/css?family=Luckiest+Guy");
+/* BODY */
+body {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
   width: 100%;
   height: 100%;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  background: #FFDB60;
-  z-index: -2;
+  background-color: skyblue;
+  background-image: -webkit-linear-gradient(90deg, skyblue 0%, steelblue 100%);
+  background-attachment: fixed;
+  background-size: 100% 100%;
+  overflow: hidden;
+  font-family: "Luckiest Guy", cursive;
+  -webkit-font-smoothing: antialiased;
 }
 
-.toaster {
-  width: 300px;
-  height: 200px;
+::selection {
+  background: transparent;
+}
+/* CLOUDS */
+body:before {
+  content: "";
   position: absolute;
-  top: 20%;		      
-  border-radius: 28px 28px 0 0;
-  background: radial-gradient(circle at 0 100%, #99DDFF 20px, #5abff2 20px) 189px -5px/25px 25px, linear-gradient(to right, #666666 20px, transparent 20px) 251px 29px/9px 110px, radial-gradient(#E6F7FF 50%, transparent 50%) 30px 10px/21px 39px, radial-gradient(#666666 49%, transparent 50%) 90px 30px/41px 41px, radial-gradient(#666666 49%, transparent 50%) 90px 70px/41px 41px, radial-gradient(#5abff2 49%, transparent 50%) 86px 109px/48px 48px, radial-gradient(#E6F7FF 49%, transparent 50%) 80.4px 104px/58px 58px, linear-gradient(to right, #99DDFF 210px, #5abff2 50px) 0 0/100% 85%, linear-gradient(to right, #666666 210px, #333333 50px) 0 70%/100% 85%, linear-gradient(to right, #666666 15px, transparent 10px), linear-gradient(to right, #666666 15px, transparent 10px) 194.6px 100%/15px 10px, linear-gradient(to right, #333333 15px, transparent 10px) 209px 100%/15px 10px, linear-gradient(to right, #333333 15px, transparent 10px) 285px 100%/15px 10px;
-  background-repeat: no-repeat;
-}
-
-.toaster:before {
+  top: 0;
+  left: 0;
+  right: 0;
+  width: 0;
+  height: 0;
+  margin: auto;
+  border-radius: 100%;
+  background: transparent;
   display: block;
-  content: "";
+  box-shadow: 0 0 150px 100px rgba(255, 255, 255, 0.6),
+    200px 0 200px 150px rgba(255, 255, 255, 0.6),
+    -250px 0 300px 150px rgba(255, 255, 255, 0.6),
+    550px 0 300px 200px rgba(255, 255, 255, 0.6),
+    -550px 0 300px 200px rgba(255, 255, 255, 0.6);
+}
+/* JUMP */
+h1 {
+  cursor: default;
   position: absolute;
-  width: 30px;
-  height: 10px;
-  top: 40px;
-  left: 240px;
-  border-radius: 0 0 20px 20px;
-  box-shadow: 0 1px 6px #333333;
-  background: #333333;
-  animation: handle 4s infinite;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  width: 100%;
+  height: 100px;
+  margin: auto;
+  display: block;
+  text-align: center;
 }
 
-.toaster:after {
-  content: "";
-  position: absolute;
-  width: 100px;
-  height: 90px;
-  margin-left: -60px;
-  left: 50%;
-  top: -40px;
-  z-index: -1;
-  background: linear-gradient(to right, #d2b48c, #d2b48c) 17px 100%/78px 80%, radial-gradient(ellipse, #d2b48c 45px, transparent 45px) 10px 0/90px 46px, linear-gradient(to right, #bc9055, #bc9055) 5px 100%/12px 80%, radial-gradient(ellipse, #bc9055 50px, transparent 50px) 0 0/100px 47px;
-  background-repeat: no-repeat;
-  animation: bread 4s infinite;
+h1 span {
+  position: relative;
+  top: 20px;
+  display: inline-block;
+  -webkit-animation: bounce 0.3s ease infinite alternate;
+  font-size: 80px;
+  color: #fff;
+  text-shadow: 0 1px 0 #ccc, 0 2px 0 #ccc, 0 3px 0 #ccc, 0 4px 0 #ccc,
+    0 5px 0 #ccc, 0 6px 0 transparent, 0 7px 0 transparent, 0 8px 0 transparent,
+    0 9px 0 transparent, 0 10px 10px rgba(0, 0, 0, 0.4);
 }
 
-@keyframes handle {
-  15% {
-    transform: translatey(80px);
-  }
-  50% {
-    transform: translatey(80px);
-    animation-timing-function: ease-out;
-  }
-  53% {
-    transform: translatey(0px);
-  }
+h1 span:nth-child(2) {
+  -webkit-animation-delay: 0.1s;
+}
+
+h1 span:nth-child(3) {
+  -webkit-animation-delay: 0.2s;
+}
+
+h1 span:nth-child(4) {
+  -webkit-animation-delay: 0.3s;
+}
+
+h1 span:nth-child(5) {
+  -webkit-animation-delay: 0.4s;
+}
+
+h1 span:nth-child(6) {
+  -webkit-animation-delay: 0.5s;
+}
+
+h1 span:nth-child(7) {
+  -webkit-animation-delay: 0.6s;
+}
+
+h1 span:nth-child(8) {
+  -webkit-animation-delay: 0.2s;
+}
+
+h1 span:nth-child(9) {
+  -webkit-animation-delay: 0.3s;
+}
+
+h1 span:nth-child(10) {
+  -webkit-animation-delay: 0.4s;
+}
+
+h1 span:nth-child(11) {
+  -webkit-animation-delay: 0.5s;
+}
+
+h1 span:nth-child(12) {
+  -webkit-animation-delay: 0.6s;
+}
+
+h1 span:nth-child(13) {
+  -webkit-animation-delay: 0.7s;
+}
+
+h1 span:nth-child(14) {
+  -webkit-animation-delay: 0.8s;
+}
+
+/* ANIMATION */
+@-webkit-keyframes bounce {
   100% {
-    transform: translatey(0px);
-  }
-}
-@keyframes bread {
-  15% {
-    transform: translatey(40px);
-  }
-  50% {
-    transform: translatey(40px) scale(1, 1);
-    animation-timing-function: ease-out;
-  }
-  53% {
-    transform: translatey(-130px) scale(0.6, 1.4);
-    animation-timing-function: ease-in;
-  }
-  58% {
-    transform: translatey(-135px) scale(1, 1);
-    animation-timing-function: ease-in;
-  }
-  78% {
-    transform: translatey(0px) scale(1, 1);
-  }
-  83% {
-    transform: translatey(0px) scale(1.1, 0.8);
-  }
-  85% {
-    transform: translatey(0px) scale(1, 1);
+    top: -20px;
+    text-shadow: 0 1px 0 #ccc, 0 2px 0 #ccc, 0 3px 0 #ccc, 0 4px 0 #ccc,
+      0 5px 0 #ccc, 0 6px 0 #ccc, 0 7px 0 #ccc, 0 8px 0 #ccc, 0 9px 0 #ccc,
+      0 50px 25px rgba(0, 0, 0, 0.2);
   }
 }
 
 
       </style>
 
-<div class="wrapper">  
-     <div class="toaster">
-	    </div>
-	    </div>
+<h1>
+  <span>j</span>
+  <span>a</span>
+  <span>l</span>
+  <span>a</span>
+  <span>j</span>
+</h1>
 
     </div>
   </foreignObject>
