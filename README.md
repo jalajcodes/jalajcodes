@@ -1,5 +1,5 @@
-### Hi there 👋
-![hi](https://pbs.twimg.com/profile_banners/3933905594/1585546053/1500x500)
+### Hi  👋
+
 
 ![hi](./my.svg)
 
