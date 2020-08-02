@@ -1,7 +1,7 @@
 ### Hi there 👋
 ![hi](https://pbs.twimg.com/profile_banners/3933905594/1585546053/1500x500)
 
-![](./my.svg)
+![hi](./my.svg)
 
 <!--
 **codewithjalaj/codewithjalaj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
