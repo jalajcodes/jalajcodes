@@ -2,8 +2,7 @@
   <foreignObject width="100%" height="100%">
     <div xmlns="http://www.w3.org/1999/xhtml">
       <style>
-@import url('https://fonts.googleapis.com/css?family=Lobster&display=swap');
-
+@import url("https://fonts.googleapis.com/css?family=Lobster&display=swap");
 * {
   box-sizing: border-box;
   overflow: hidden;
@@ -11,123 +10,173 @@
 
 HTML, BODY {
   height: 100%;
-  }
-
-$colors: #360745, #D61C59, #E7D84B, #EFEAC5, #1B8798;
+}
 
 BODY {
   background: #000;
   background-size: .12em 100%;
   font: 16em/1 Lobster;
-
 }
+
 .background {
-  background-color: hsla(209, 23%, 22%, 1);
+  background-color: #2b3945;
   z-index: 999;
   position: absolute;
   left: 0;
   top: 0;
   width: 50vw;
   height: 100vh;
-  animation: discoverLeft 4s linear;
-  animation-fill-mode: forwards;
-  animation-delay: 0.2s;
-  animation-iteration-count: 1;
+  -webkit-animation: discoverLeft 4s linear;
+          animation: discoverLeft 4s linear;
+  -webkit-animation-fill-mode: forwards;
+          animation-fill-mode: forwards;
+  -webkit-animation-delay: 0.2s;
+          animation-delay: 0.2s;
+  -webkit-animation-iteration-count: 1;
+          animation-iteration-count: 1;
 }
 
 .background2 {
-  background-color: hsla(209, 23%, 22%, 1);
+  background-color: #2b3945;
   z-index: 99999;
   position: absolute;
   right: 0;
   top: 0;
   width: 50vw;
   height: 100vh;
-  animation: discoverRight 4s linear;
-  animation-fill-mode: forwards;
-  animation-iteration-count: 1;
-  animation-delay: 0.2s;
+  -webkit-animation: discoverRight 4s linear;
+          animation: discoverRight 4s linear;
+  -webkit-animation-fill-mode: forwards;
+          animation-fill-mode: forwards;
+  -webkit-animation-iteration-count: 1;
+          animation-iteration-count: 1;
+  -webkit-animation-delay: 0.2s;
+          animation-delay: 0.2s;
 }
 
 .text--line {
   margin: 600px;
-  }
+}
 
 svg {
   position: absolute;
   width: 100%;
   height: 100%;
-  }
+}
 
-$max: 5;
-$stroke-step: 7%; 
 .text-copy {
   fill: none;
   stroke: white;
-  stroke-dasharray: $stroke-step $stroke-step * ($max - 1);
+  stroke-dasharray: 7% 28%;
   stroke-width: 3px;
-  
-  animation: stroke-offset 9s infinite linear;
-  
-  @for $item from 1 through $max {
-    $stroke-color: nth($colors, $item);
-    
-    &:nth-child(#{$item}) {
-      stroke: $stroke-color;
-      stroke-dashoffset: $stroke-step * $item;
-      }
-    }
-  }
+  -webkit-animation: stroke-offset 9s infinite linear;
+          animation: stroke-offset 9s infinite linear;
+}
+.text-copy:nth-child(1) {
+  stroke: #360745;
+  stroke-dashoffset: 7%;
+}
+.text-copy:nth-child(2) {
+  stroke: #D61C59;
+  stroke-dashoffset: 14%;
+}
+.text-copy:nth-child(3) {
+  stroke: #E7D84B;
+  stroke-dashoffset: 21%;
+}
+.text-copy:nth-child(4) {
+  stroke: #EFEAC5;
+  stroke-dashoffset: 28%;
+}
+.text-copy:nth-child(5) {
+  stroke: #1B8798;
+  stroke-dashoffset: 35%;
+}
 
-@keyframes stroke-offset {
+@-webkit-keyframes stroke-offset {
   50% {
-    stroke-dashoffset: $stroke-step * $max;  
-    stroke-dasharray: 0 $stroke-step * $max*2.5;
+    stroke-dashoffset: 35%;
+    stroke-dasharray: 0 87.5%;
   }
 }
 
+@keyframes stroke-offset {
+  50% {
+    stroke-dashoffset: 35%;
+    stroke-dasharray: 0 87.5%;
+  }
+}
+@-webkit-keyframes discoverLeft {
+  0% {
+    opacity: 1;
+  }
+  50% {
+    opacity: 0.5;
+  }
+  65% {
+    opacity: 0.3;
+  }
+  100% {
+    -webkit-transform: translateX(-1500px) skew(50deg);
+            transform: translateX(-1500px) skew(50deg);
+  }
+}
 @keyframes discoverLeft {
   0% {
     opacity: 1;
   }
-
   50% {
     opacity: 0.5;
   }
-
   65% {
-    opacity: 0.3
+    opacity: 0.3;
   }
-
   100% {
-    transform: translateX(-1500px) skew(50deg);
+    -webkit-transform: translateX(-1500px) skew(50deg);
+            transform: translateX(-1500px) skew(50deg);
   }
 }
-
+@-webkit-keyframes discoverRight {
+  0% {
+    opacity: 1;
+  }
+  50% {
+    opacity: 0.5;
+  }
+  65% {
+    opacity: 0.3;
+  }
+  100% {
+    -webkit-transform: translateX(1500px) skew(-50deg);
+            transform: translateX(1500px) skew(-50deg);
+  }
+}
 @keyframes discoverRight {
   0% {
     opacity: 1;
   }
-
   50% {
     opacity: 0.5;
   }
-
   65% {
-    opacity: 0.3
+    opacity: 0.3;
   }
-
   100% {
-    transform: translateX(1500px) skew(-50deg);
+    -webkit-transform: translateX(1500px) skew(-50deg);
+            transform: translateX(1500px) skew(-50deg);
   }
 }
 
-
       </style>
-      <div class="background"></div>
+
+  
+  <div class="background"></div>
 <div class="background2"></div>
 
 
+
+
+<svg viewBox="0 0 800 600">
   <symbol id="s-text">
     <text text-anchor="middle"
           x="50%"
@@ -162,6 +211,7 @@ $stroke-step: 7%;
   </g>
   
   
+</svg>
 
     </div>
   </foreignObject>
