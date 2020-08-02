@@ -1,7 +1,7 @@
 ### Hi  👋
 
 
-![hi](./my.svg)
+![hi](https://github.com/codewithjalaj/codewithjalaj/blob/master/my.svg)
 
 <!--
 **codewithjalaj/codewithjalaj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
