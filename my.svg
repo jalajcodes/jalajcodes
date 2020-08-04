@@ -122,8 +122,8 @@ h1 span:nth-child(14) {
   <span>e</span>
   <span>l</span>
   <span>l</span>
-  <span>o<br/></span>
-           
+  <span>o</span>
+         <br />  
           <span>s</span>
   <span>t</span>
   <span>r</span>
