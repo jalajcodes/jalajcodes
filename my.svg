@@ -1,39 +1,34 @@
-<svg fill="none" viewBox="0 0 900 300" width="900" height="300" xmlns="http://www.w3.org/2000/svg">
+<svg fill="none" xmlns="http://www.w3.org/2000/svg">
   <foreignObject width="100%" height="100%">
     <div xmlns="http://www.w3.org/1999/xhtml">
       <style>
-    
+
 
 .wrapper {
   display: grid;
   place-items: center;
-  width: 100%;
-  height: 200px;
-  
+  width: 900px;
+  height: 300px;
   background-color: skyblue;
   background-image: -webkit-linear-gradient(90deg, skyblue 0%, steelblue 100%);
   background-repeat: no-repeat;
   background-size: 100% 100%;
-<!--   overflow: hidden; -->
+  overflow: hidden;
   font-family: cursive;
-  
+
 }
 
 /* JUMP */
 h1 {
   cursor: default;
   pointer-events: none;
-  width: 100%;
-  height: 100px;
-  margin: auto;
-  display: block;
   text-align: center;
 }
 
 h1 span {
   position: relative;
   top: 20px;
-  display: inline-block;
+  <!-- display: inline-block; -->
   -webkit-animation: bounce 0.3s ease infinite alternate;
   font-size: 80px;
   color: #fff;
@@ -108,16 +103,16 @@ h1 span:nth-child(14) {
       </style>
       <div class="wrapper">
         <h1>
-          
-          
-          
-          
+
+
+
+
   <span>H</span>
   <span>e</span>
   <span>l</span>
   <span>l</span>
   <span>o</span>
-         <br />  
+         <br />
           <span>S</span>
   <span>t</span>
   <span>r</span>
