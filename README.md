@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 - 🏠 Visit my Portfolio [here](https://jalaj.codes/)
 
-- 📝 Read my articles on my [blog](https://blog.jalaj.codes/)
+- 📝 Read articles I've written on my [blog](https://blog.jalaj.codes/)
 
 - 💬 Ask me about **React, Javascript, Typescript, GraphQL, Data Structures and Algorithms, HTML, CSS, MongoDB, Postgres**
 
