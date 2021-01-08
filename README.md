@@ -66,7 +66,7 @@ Here are some ideas to get you started:
   <a href="https://www.instagram.com/jalajcodes/"><img src="https://img.shields.io/badge/instagram-%23D14836.svg?&style=for-the-badge&logo=instagram&logoColor=pink" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
-<h2 align="center">Sad Day? Here's a cat for you! :wink:</h2>
+<h2 align="center">Sad Day? Let my cat cheer you up!  😼:wink:</h2>
 <p align="center">
-<img src='https://placekitten.com/400/400' title="Kitten" alt="Please refresh the page if the cat doesn't show up." height="400">
+<img src='https://cataas.com/cat/gif/says/Hello?filter=sepia&color=orange&size=40&type=or' title="Kitten" alt="Please refresh the page if the cat doesn't show up." height="400">
 </p>
