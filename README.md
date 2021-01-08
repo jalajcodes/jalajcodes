@@ -24,13 +24,15 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **NestJS, ThreeJS, WebGL, R3F, AWS**
 
-- 👨‍💻 I have lots of projects available at my [Github](https://github.com/jalajcodes?tab=repositories)
+- 👨‍💻 Checkout some of my projects at [Github](https://github.com/jalajcodes?tab=repositories)
 
-- 📝 Read my articles on [Hashnode](https://jalaj.codes/)
+- 🏠 Visit my Portfolio [here](https://jalaj.codes/)
+
+- 📝 Read my articles on my [blog](https://blog.jalaj.codes/)
 
 - 💬 Ask me about **React, Javascript, Typescript, GraphQL, Data Structures and Algorithms, HTML, CSS, MongoDB, Postgres**
 
-- 📫 Reach me at twitter (@jalajcodes) or **jalaj799[at]gmail.com**
+- 📫 Reach me via twitter or email (scroll down for links).
 
 
 <h2 align="center">⚡️ Technology Stacks</h2>
@@ -48,7 +50,7 @@ Here are some ideas to get you started:
    <img src="https://github.com/devicons/devicon/raw/master/icons/css3/css3-original-wordmark.svg" alt="css" width="40" height="40"/>
    <img src="https://github.com/devicons/devicon/raw/master/icons/nestjs/nestjs-plain-wordmark.svg" alt="nestjs" width="40" height="40"/>
    <img src="https://github.com/devicons/devicon/raw/master/icons/gatsby/gatsby-original-wordmark.svg" alt="java" width="40" height="40"/>
-   <img src="https://github.com/devicons/devicon/raw/master/icons/heroku/heroku-original.svg" alt="heroku" width="40" height="40"/><img src="https://devicons.github.io/devicon/devicon.git/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="40" height="40"/>
+   <img src="https://github.com/devicons/devicon/raw/master/icons/heroku/heroku-original.svg" alt="heroku" width="40" height="40"/><img src="https://github.com/devicons/devicon/raw/master/icons/git/git-original-wordmark.svg" alt="git" width="40" height="40"/>
 </p>
 
 <h2 align="center">🐦 Github Statistics </h2>
