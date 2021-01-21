@@ -57,6 +57,9 @@ Here are some ideas to get you started:
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=jalajcodes&layout=compact&hide=html&theme=jolly" alt="jalajcodes" />&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jalajcodes&layout=compact" />
+</p>
 
 <h2 align="center">📫 Reach out to me on</h2>
 <p align="center">
@@ -66,7 +69,7 @@ Here are some ideas to get you started:
   <a href="https://www.instagram.com/jalajcodes/"><img src="https://img.shields.io/badge/instagram-%23D14836.svg?&style=for-the-badge&logo=instagram&logoColor=pink" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
-<h2 align="center">Sad Day? Let my cat cheer you up!  😼:wink:</h2>
+<h2 align="center">Bonus  😼:wink:</h2>
 <p align="center">
 <img src='https://placekitten.com/200' title="Kitten" alt="Please refresh the page if the cat doesn't show up." height="400">
 </p>
