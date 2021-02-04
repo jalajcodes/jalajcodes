@@ -24,13 +24,13 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **NestJS, ThreeJS, WebGL, R3F, AWS**
 
-- 👨‍💻 Checkout some of my projects at [Github](https://github.com/jalajcodes?tab=repositories)
+<!-- - 👨‍💻 Checkout some of my projects at [Github](https://github.com/jalajcodes?tab=repositories) -->
 
 - 🏠 Visit my Portfolio [here](https://jalaj.codes/)
 
 - 📝 Read articles I've written on my [blog](https://blog.jalaj.codes/)
 
-- 💬 Ask me about **React, Javascript, Typescript, GraphQL, Data Structures and Algorithms, HTML, CSS, MongoDB, Postgres**
+- 💬 Ask me about **React, Javascript, Typescript, Python, GraphQL, Data Structures and Algorithms, HTML, CSS, MongoDB, Postgres**
 
 - 📫 Reach me via twitter or email (scroll down for links).
 
