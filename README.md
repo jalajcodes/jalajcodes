@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **NestJS, ThreeJS, WebGL, R3F, AWS**
 
-<!-- - 👨‍💻 Checkout some of my projects at [Github](https://github.com/jalajcodes?tab=repositories) -->
+- 👨‍💻 Checkout some of my projects below.
 
 - 🏠 Visit my Portfolio [here](https://jalaj.codes/)
 
