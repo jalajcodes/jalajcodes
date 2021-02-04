@@ -71,5 +71,5 @@ Here are some ideas to get you started:
 
 <h2 align="center">Bonus  😼:wink:</h2>
 <p align="center">
-<img src='https://placekitten.com/200' title="Kitten" alt="Please refresh the page if the cat doesn't show up." height="400">
+<img src='https://placekitten.com/200/200' title="Kitten" alt="Please refresh the page if the cat doesn't show up." height="400">
 </p>
