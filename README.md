@@ -55,7 +55,7 @@ Here are some ideas to get you started:
 
 <h2 align="center">🐦 Github Statistics </h2>
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=jalajcodes&layout=compact&hide=html" alt="jalajcodes" />&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api?username=jalajcodes&layout=compact&hide=html" alt="jalajcodes" />
 </p>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jalajcodes&layout=compact" />
