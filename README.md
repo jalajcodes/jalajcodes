@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 
 - 💬 Ask me about **React, Javascript, Typescript, Python, GraphQL, Data Structures and Algorithms, HTML, CSS, MongoDB, Postgres**
 
-- 📫 Reach me via twitter or email (scroll down for links).
+- 📫 Reach out to me via twitter or email (scroll down for links).
 
 
 <h2 align="center">⚡️ Technology Stacks</h2>
