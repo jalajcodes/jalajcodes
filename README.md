@@ -57,9 +57,9 @@ Here are some ideas to get you started:
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=jalajcodes&layout=compact&hide=html" alt="jalajcodes" />
 </p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jalajcodes&layout=compact" />
-</p>
+<!-- <p align="center"> -->
+<!--   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jalajcodes&layout=compact" /> -->
+<!--</p> -->
 
 <h2 align="center">📫 Reach out to me on</h2>
 <p align="center">
