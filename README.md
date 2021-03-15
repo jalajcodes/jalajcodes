@@ -20,13 +20,13 @@ Here are some ideas to get you started:
 
 <p align="center"> <a href="https://github.com/jalajcodes"><img src="https://camo.githubusercontent.com/dc2d0b48d6059978eff55d24142349883c54abb46ccc2adecbf22bf585e4fb86/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d68617273686373706572" alt="jalajcodes" /></a> </p>
 
-- 🔭 I’m currently working on backend for a local delivery app called **Urgent** 
+- 🔭 I’m currently working on backend for a local delivery app called **[Urgent](https://github.com/jalajcodes/urgent-backend)** 
 
 - 🌱 I’m currently learning **NestJS, ThreeJS, WebGL, R3F, AWS**
 
 - 👨‍💻 Checkout some of my projects below.
 
-- 🏠 Visit my Portfolio [here](https://jalaj.codes/)
+- 🏠 Visit my [Portfolio](https://jalaj.codes/)
 
 - 📝 Checkout my [blog](https://blog.jalaj.codes/)
 
@@ -61,7 +61,7 @@ Here are some ideas to get you started:
 <!--   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jalajcodes&layout=compact" /> -->
 <!--</p> -->
 
-<h2 align="center">📫 Reach out to me on</h2>
+<h2 align="center">📫 Get in touch</h2>
 <p align="center">
    <a target="_blank"href="https://twitter.com/jalajcodes"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:jalaj799@gmail.com?subject=Hello%20Jalaj,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
