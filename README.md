@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 - 📫 Reach out to me via twitter or email (scroll down for links).
 
 
-<h2 align="center">⚡️ Technology Stacks</h2>
+<h2 align="center">⚡️ Technologies I work with</h2>
 <p align="center">
    <img src="https://github.com/devicons/devicon/raw/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
    <img src="https://github.com/devicons/devicon/raw/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
