@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi 👋, I'm Jalaj Gupta</h1>
+<h1 align="center">Hey 👋, I'm Jalaj Gupta</h1>
 <h3 align="center">Full Stack Web + Mobile Developer 💻</h3>
 
 <p align="center"> <a href="https://github.com/jalajcodes"><img src="https://camo.githubusercontent.com/dc2d0b48d6059978eff55d24142349883c54abb46ccc2adecbf22bf585e4fb86/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d68617273686373706572" alt="jalajcodes" /></a> </p>
