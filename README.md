@@ -69,12 +69,7 @@
 </p>
 
 <h2 align="center">🗒️ Latest Blog Posts </h2>
-<!-- BLOG-POST-LIST:START -->
- - 🌮 Keeping the Footer at the Bottom of the Page https://blog.jalaj.codes/keeping-the-footer-at-the-bottom-of-the-page-ckpl32krw0hmhz0s1ecjr4asu
- - 💫 The easy-peasy React state management library https://blog.jalaj.codes/the-easy-peasy-react-state-management-library-ckp16vfuq0mhqcrs17r3c237x
- - 💫 Reversing a String in Javascript https://blog.jalaj.codes/reversing-a-string-in-javascript-ckp12d1000lb2crs171icg5nr
- - 🔥 Creating Page Transitions in React using Framer Motion https://blog.jalaj.codes/creating-page-transitions-in-react-using-framer-motion-ckolcx5hh06zv3js15642fi06
- - 💫 GiTrack - Statistics and Issue Tracker for Open Source Enthusiasts https://blog.jalaj.codes/gitrack-statistics-and-issue-tracker-for-open-source-enthusiasts-cklnsnr1z01mg95s1fcqwbmm5<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->- 💯 [Keeping the Footer at the Bottom of the Page](https://blog.jalaj.codes/keeping-the-footer-at-the-bottom-of-the-page-ckpl32krw0hmhz0s1ecjr4asu)- 🔥 [The easy-peasy React state management library](https://blog.jalaj.codes/the-easy-peasy-react-state-management-library-ckp16vfuq0mhqcrs17r3c237x)- 💫 [Reversing a String in Javascript](https://blog.jalaj.codes/reversing-a-string-in-javascript-ckp12d1000lb2crs171icg5nr)- 🚀 [Creating Page Transitions in React using Framer Motion](https://blog.jalaj.codes/creating-page-transitions-in-react-using-framer-motion-ckolcx5hh06zv3js15642fi06)- 🌮 [GiTrack - Statistics and Issue Tracker for Open Source Enthusiasts](https://blog.jalaj.codes/gitrack-statistics-and-issue-tracker-for-open-source-enthusiasts-cklnsnr1z01mg95s1fcqwbmm5)<!-- BLOG-POST-LIST:END -->
 
 <h2 align="center">🐦 Github Statistics </h2>
 <p align="center">
