@@ -1,20 +1,5 @@
 ![](https://github.com/codewithjalaj/codewithjalaj/blob/master/my.svg)
 
-<!--
-**codewithjalaj/codewithjalaj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 <h1 align="center">Hey 👋, I'm Jalaj Gupta</h1>
 <h3 align="center">Full Stack Web + Mobile Developer 💻</h3>
 
@@ -34,9 +19,39 @@ Here are some ideas to get you started:
 
 - 📫 Reach out to me via twitter or email (scroll down for links).
 
+<p align="center">
+   
+![](https://github.com/jalajcodes/jalajcodes/blob/master/github-user-contribution.svg)
+
+</p>
 
 <h2 align="center">⚡️ Technologies I work with</h2>
 <p align="center">
+  
+   
+![Javascript](https://img.shields.io/badge/-Javascript-05122A?style=flat&logo=javascript)&nbsp;
+![Shell](https://img.shields.io/badge/Shell-05122A?style=flat&logo=gnu-bash&logoColor=white)&nbsp;
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+![Typescript](https://img.shields.io/badge/-Typescript-05122A?style=flat&logo=typescript)&nbsp;
+![NodeJS](https://img.shields.io/badge/-NodeJS-05122A?style=flat&logo=nodejs)&nbsp;
+![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
+![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
+![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)&nbsp;
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![HTML](https://img.shields.io/badge/-Html-05122A?style=flat&logo=html5)&nbsp;
+![CSS](https://img.shields.io/badge/-Css-05122A?style=flat&logo=css3)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions%20-05122A?style=flat&logo=github-actions)&nbsp;
+![Nestjs](https://img.shields.io/badge/NestJS-05122A?style=flat&logo=nestjs)&nbsp;
+![Gatsby](https://img.shields.io/badge/-Gatsby-05122A?style=flat&logo=gatsby)&nbsp;
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![GraphQL](https://img.shields.io/badge/-GraphQL-05122A?style=flat&logo=graphql)&nbsp;
+![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman)&nbsp;
+![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)&nbsp;
+![Heroku](https://img.shields.io/badge/-Heroku-05122A?style=flat&logo=heroku)&nbsp;
+<!--    
    <img src="https://github.com/devicons/devicon/raw/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
    <img src="https://github.com/devicons/devicon/raw/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
    <img src="https://github.com/devicons/devicon/raw/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
@@ -50,7 +65,7 @@ Here are some ideas to get you started:
    <img src="https://github.com/devicons/devicon/raw/master/icons/css3/css3-original-wordmark.svg" alt="css" width="40" height="40"/>
    <img src="https://github.com/devicons/devicon/raw/master/icons/nestjs/nestjs-plain-wordmark.svg" alt="nestjs" width="40" height="40"/>
    <img src="https://github.com/devicons/devicon/raw/master/icons/gatsby/gatsby-original-wordmark.svg" alt="java" width="40" height="40"/>
-   <img src="https://github.com/devicons/devicon/raw/master/icons/heroku/heroku-original.svg" alt="heroku" width="40" height="40"/><img src="https://github.com/devicons/devicon/raw/master/icons/git/git-original-wordmark.svg" alt="git" width="40" height="40"/>
+   <img src="https://github.com/devicons/devicon/raw/master/icons/heroku/heroku-original.svg" alt="heroku" width="40" height="40"/><img src="https://github.com/devicons/devicon/raw/master/icons/git/git-original-wordmark.svg" alt="git" width="40" height="40"/> -->
 </p>
 
 <h2 align="center">🐦 Github Statistics </h2>
