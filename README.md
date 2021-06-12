@@ -68,6 +68,10 @@
    <img src="https://github.com/devicons/devicon/raw/master/icons/heroku/heroku-original.svg" alt="heroku" width="40" height="40"/><img src="https://github.com/devicons/devicon/raw/master/icons/git/git-original-wordmark.svg" alt="git" width="40" height="40"/> -->
 </p>
 
+<h2 align="center">🗒️ Latest Blog Posts </h2>
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 <h2 align="center">🐦 Github Statistics </h2>
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=jalajcodes&layout=compact&hide=html" alt="jalajcodes" />
