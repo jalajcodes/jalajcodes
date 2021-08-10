@@ -97,7 +97,7 @@
   <a href="https://www.instagram.com/jalajcodes/"><img src="https://img.shields.io/badge/instagram-%23D14836.svg?&style=for-the-badge&logo=instagram&logoColor=pink" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
-<h2 align="center">Thankyou for visiting! 😼:wink:</h2>
-<p align="center">
+<!-- <h2 align="center">Thankyou for visiting! 😼:wink:</h2>
+<p align="center"> -->
 <!-- <img src='https://placekitten.com/200/300' title="Kitten" alt="Please refresh the page if the cat doesn't show up."> -->
-</p>
+<!-- </p> -->
