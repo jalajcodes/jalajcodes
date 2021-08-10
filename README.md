@@ -25,7 +25,7 @@
 
 </p>
 
-<h2 align="center">⚡️ Technologies I work with</h2>
+<h2 align="center">⚡️ Technologies I know</h2>
 <p align="center">
   
    
