@@ -1,23 +1,23 @@
 ![](https://github.com/codewithjalaj/codewithjalaj/blob/master/my.svg)
 
-<h1 align="center">Hey 👋, I'm Jalaj Gupta</h1>
+<h1 align="center">Hey 👋, I'm Jalaj</h1>
 <h3 align="center">Full Stack Software Developer 💻</h3>
 
 <p align="center"> <a href="https://github.com/jalajcodes"><img src="https://camo.githubusercontent.com/dc2d0b48d6059978eff55d24142349883c54abb46ccc2adecbf22bf585e4fb86/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d68617273686373706572" alt="jalajcodes" /></a> </p>
 
-- 🔭 I’m currently working on backend for a local delivery app called **[Urgent](https://github.com/jalajcodes/urgent-backend)** 
+- 🔭 My current side project is a food delivery website called **[Urgent](https://github.com/jalajcodes/urgent-backend)** 
 
-- 🌱 I’m currently learning **NestJS, ThreeJS, WebGL, R3F, AWS**
+- 🌱 I plan to dabble with **NestJS, ThreeJS, WebGL, R3F, AWS** by this year.
 
 - 👨‍💻 Checkout some of my projects below.
 
-- 🏠 Visit my [Portfolio](https://jalaj.codes/)
+- 🏠 Visit my [Portfolio](https://jalaj.codes/) (WIP)
 
 - 📝 Checkout my [blog](https://blog.jalaj.codes/)
 
-- 💬 Ask me about **React, Javascript, Typescript, Python, GraphQL, Data Structures and Algorithms, HTML, CSS, MongoDB, Postgres**
+- 💬 You can ping me with questions about **React, Javascript, Typescript, Databases and basically anything related to Web Development**.
 
-- 📫 Reach out to me via twitter or email (scroll down for links).
+<!-- - 📫 Reach out to me via twitter or email (scroll down for links). -->
 
 <p align="center">
    
@@ -25,7 +25,7 @@
 
 </p>
 
-<h2 align="center">⚡️ Technologies I know</h2>
+<h2 align="center">⚡️ Technologies I've Used</h2>
 <p align="center">
   
    
@@ -51,21 +51,6 @@
 ![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman)&nbsp;
 ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)&nbsp;
 ![Heroku](https://img.shields.io/badge/-Heroku-05122A?style=flat&logo=heroku)&nbsp;
-<!--    
-   <img src="https://github.com/devicons/devicon/raw/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-   <img src="https://github.com/devicons/devicon/raw/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
-   <img src="https://github.com/devicons/devicon/raw/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-   <img src="https://github.com/devicons/devicon/raw/master/icons/nodejs/nodejs-original-wordmark.svg" alt="css" width="40" height="40"/>
-   <img src="https://github.com/devicons/devicon/raw/master/icons/django/django-plain.svg" alt="django" width="40" height="40"/> 
-   <img src="https://github.com/devicons/devicon/raw/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> 
-   <img src="https://github.com/devicons/devicon/raw/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
-   <img src="https://github.com/devicons/devicon/raw/master/icons/postgresql/postgresql-original-wordmark.svg" alt="mysql" width="40" height="40"/>  
-   <img src="https://github.com/devicons/devicon/raw/master/icons/python/python-original-wordmark.svg" alt="python" width="40" height="40"/>  
-   <img src="https://github.com/devicons/devicon/raw/master/icons/html5/html5-original-wordmark.svg" alt="html" width="40" height="40"/>
-   <img src="https://github.com/devicons/devicon/raw/master/icons/css3/css3-original-wordmark.svg" alt="css" width="40" height="40"/>
-   <img src="https://github.com/devicons/devicon/raw/master/icons/nestjs/nestjs-plain-wordmark.svg" alt="nestjs" width="40" height="40"/>
-   <img src="https://github.com/devicons/devicon/raw/master/icons/gatsby/gatsby-original-wordmark.svg" alt="java" width="40" height="40"/>
-   <img src="https://github.com/devicons/devicon/raw/master/icons/heroku/heroku-original.svg" alt="heroku" width="40" height="40"/><img src="https://github.com/devicons/devicon/raw/master/icons/git/git-original-wordmark.svg" alt="git" width="40" height="40"/> -->
 </p>
 
 <h2 align="center">🗒️ Latest Blog Posts </h2>
