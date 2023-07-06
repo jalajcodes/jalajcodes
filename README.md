@@ -66,10 +66,10 @@
  
  - 🌮 [GiTrack - Statistics and Issue Tracker for Open Source Enthusiasts](https://blog.jalaj.codes/gitrack-statistics-and-issue-tracker-for-open-source-enthusiasts-cklnsnr1z01mg95s1fcqwbmm5)<!-- BLOG-POST-LIST:END -->
 
-<h2 align="center">🐦 Github Statistics </h2>
+<!--<h2 align="center">🐦 Github Statistics </h2>
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=jalajcodes&layout=compact&hide=html" alt="jalajcodes" />
-</p>
+</p> -->
 <!-- <p align="center"> -->
 <!--   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jalajcodes&layout=compact" /> -->
 <!--</p> -->
