@@ -3,7 +3,6 @@
 <h1 align="center">Hey 👋, I'm Jalaj</h1>
 <h3 align="center">Full Stack Software Developer 💻</h3>
 
-<p align="center"> <a href="https://github.com/jalajcodes"><img src="https://camo.githubusercontent.com/dc2d0b48d6059978eff55d24142349883c54abb46ccc2adecbf22bf585e4fb86/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d68617273686373706572" alt="jalajcodes" /></a> </p>
 
 - 🔭 My current side project is a food delivery website called **[Urgent](https://github.com/jalajcodes/urgent-backend)** 
 
@@ -34,6 +33,7 @@
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![Typescript](https://img.shields.io/badge/-Typescript-05122A?style=flat&logo=typescript)&nbsp;
 ![NodeJS](https://img.shields.io/badge/-NodeJS-05122A?style=flat&logo=nodejs)&nbsp;
+![AWS](https://img.shields.io/badge/-Aws-05122A?style=flat&logo=amazonaws)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
 ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)&nbsp;
@@ -66,13 +66,13 @@
  
  - 🌮 [GiTrack - Statistics and Issue Tracker for Open Source Enthusiasts](https://blog.jalaj.codes/gitrack-statistics-and-issue-tracker-for-open-source-enthusiasts-cklnsnr1z01mg95s1fcqwbmm5)<!-- BLOG-POST-LIST:END -->
 
-<!--<h2 align="center">🐦 Github Statistics </h2>
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=jalajcodes&layout=compact&hide=html" alt="jalajcodes" />
-</p> -->
-<!-- <p align="center"> -->
-<!--   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jalajcodes&layout=compact" /> -->
-<!--</p> -->
+<h2 align="center">🐦 Github Statistics </h2>
+<!-- <p align="center">
+<img src="[https://github-readme-stats.vercel.app](https://github-readme-stats.vercel.app)/api?username=jalajcodes&layout=compact&hide=html" alt="jalajcodes" />
+</p>  -->
+ <p align="center"> 
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jalajcodes&layout=compact" /> 
+</p>
 
 <h2 align="center">📫 Get in touch</h2>
 <p align="center">
@@ -82,7 +82,11 @@
   <a href="https://www.instagram.com/jalajcodes/"><img src="https://img.shields.io/badge/instagram-%23D14836.svg?&style=for-the-badge&logo=instagram&logoColor=pink" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
-<!-- <h2 align="center">Thankyou for visiting! 😼:wink:</h2>
+<h2 align="center">Thanks, You just increased the profile count by 1 😼:wink:</h2>
+<p align="center"> <a href="https://github.com/jalajcodes"><img src="https://camo.githubusercontent.com/dc2d0b48d6059978eff55d24142349883c54abb46ccc2adecbf22bf585e4fb86/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d68617273686373706572" alt="jalajcodes" /></a> </p>
+
+
+<!-- 
 <p align="center"> -->
 <!-- <img src='https://placekitten.com/200/300' title="Kitten" alt="Please refresh the page if the cat doesn't show up."> -->
 <!-- </p> -->
