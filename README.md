@@ -18,11 +18,11 @@
 
 <!-- - 📫 Reach out to me via twitter or email (scroll down for links). -->
 
-<p align="center">
+<!--<p align="center">
    
 ![](https://github.com/jalajcodes/jalajcodes/blob/master/github-user-contribution.svg)
 
-</p>
+</p>-->
 
 <h2 align="center">⚡️ Technologies I've Used</h2>
 <p align="center">
